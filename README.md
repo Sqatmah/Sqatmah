@@ -1,5 +1,18 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 👋 Hi there, I'm Saifeddin Qatma!
+
+I'm a freshly graduated full-stack developer with a strong focus on **Python backend development** and cloud computing. Passionate about building scalable APIs and integrating cloud technologies, I'm currently advancing my skills in **AWS, DevOps tools**, and containerization.
+
+---
+
+## 💫 About Me
+
+- 🔭 I’m currently working on backend projects using **Django** and **ASP.Net Core**, integrating OCR, AI, and Power BI dashboards.  
+- 👯 I’m looking to collaborate on **backend systems**, **RESTful APIs**, and **cloud-native microservices**.  
+- 🤝 I’m looking for guidance and collaboration in **AWS DevOps**, **CI/CD pipelines**, and **Kubernetes**.  
+- 🌱 I’m currently learning **Terraform**, **Jenkins**, **GitHub Actions**, and **advanced AWS services**.  
+- 💬 Ask me about: `Django`, `Flask`, `ASP.Net Core`, `SQL`, `Cloud Deployment`, `Docker`, and `Linux`.  
+- ⚡ Fun fact: I love designing clean backend logic *and* playing horror games in my free time.  
+
 
 
 ## 🌐 Socials:
