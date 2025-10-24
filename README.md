@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Saifeddin Qatma!
 
-I'm a freshly graduated full-stack developer with a strong focus on **Python backend development** and cloud computing. Passionate about building scalable APIs and integrating cloud technologies, I'm currently advancing my skills in **AWS, DevOps tools**, and containerization.
+I'm a  full-stack developer with a strong focus on **Python backend development** and cloud computing. Passionate about building scalable APIs and integrating cloud technologies, I'm currently advancing my skills in **AWS, DevOps tools**, and containerization.
 
 Email Me 👉 ✉️ Sqatmah@gmail.com  For Collaboration/Project or Anything Else. 😊😊
 
